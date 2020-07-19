@@ -59,7 +59,7 @@ const Portfolio = (function () {
 			strings: [
 				"habe Spaß daran, neue Dinge zu lernen.",
 				"mag es, Sachen zu automatisieren",
-				"lerne gerne Neues.",
+				"lerne gerne Neues dazu.",
 				"löse Probleme.",
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
